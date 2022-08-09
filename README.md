@@ -31,13 +31,18 @@ Puedes encontrar el directorio raiz de la aplicación en:
     De esa forma puedes empesar a editar el sitio y realizar pruebas. 
     ```
 
----
+
 
 ## Preguntas:
 Utilizar github o el espacio de la intranet para realizar preguntas y postear problemas.
 
 
 
+
+
+
+
+---
 
 
 # README ORIGINAL DE VVV:
