@@ -22,14 +22,14 @@ Ahora puedes ingresar panel de control en [http://vvv.test](http://vvv.test). Y 
 
 Puedes encontrar el directorio raiz de la aplicación en:
     
-    ```shell
-    cd www/foobar/public_html
-    
-    Ahora puedes cargar vscode escribiendo:
-    code . 
+```shell
+cd www/foobar/public_html
 
-    De esa forma puedes empesar a editar el sitio y realizar pruebas. 
-    ```
+Ahora puedes cargar vscode escribiendo:
+code . 
+
+De esa forma puedes empesar a editar el sitio y realizar pruebas. 
+```
 
 
 
