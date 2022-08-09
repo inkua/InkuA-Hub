@@ -2,7 +2,7 @@
 
 ## Instalación
 
-Descargar e instalar [Git] (https://git-scm.com/) 
+Descargar e instalar [Git](https://git-scm.com/) 
 [Vagrant](https://www.vagrantup.com) y 
 [VirtualBox](https://www.virtualbox.org/).
 
