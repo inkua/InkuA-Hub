@@ -1,0 +1,65 @@
+#!/bin/bash
+#
+# This script is run whenever `vagrant up` is used to power on
+# the virtual machine. To customize this behavior, include a file
+# in your local VVV/config/homebin directory: vagrant_up_custom
+#
+# Look for a custom trigger file. If this exists, we'll assume that
+# all trigger actions should be handled by this custom script. If
+# it does not exist, then we'll handle some basic tasks.
+set -eo pipefail
+source /srv/provision/provision-helpers.sh
+
+RED="\033[38;5;9m"
+R=$RED
+GREEN="\033[01;32m"
+G=$GREEN
+BLUE="\033[38;5;4m"
+B=$BLUE
+CYAN="\033[38;5;6m"
+CRESET="\033[0m"
+TEARS="${CYAN}░${RED}"
+EYE="${CYAN}█${RED}"
+URL="\033[4;38;5;3m"
+
+if [[ -f /srv/config/homebin/vagrant_up_custom ]]; then
+	vvv_info " * Custom vagrant up script found, executing vagrant_up_custom"
+	/srv/config/homebin/vagrant_up_custom
+fi
+
+vvv_info " * Restarting Nginx"
+sudo service nginx restart
+
+vvv_info " * Restarting MariaDB"
+sudo service mariadb restart
+
+if [ -x "$(command -v ntpdate)" ]; then
+	vvv_info " * Syncing clocks"
+	if sudo ntpdate -u ntp.ubuntu.com; then
+		vvv_info " * clocks synced"
+	else
+		vvv_warn " - clock synchronisation failed"
+	fi
+else
+	vvv_info " - skipping ntpdate clock sync, not installed yet"
+fi
+
+mkdir -p /vagrant/failed_provisioners
+if [ -z "$(ls -A /vagrant/failed_provisioners/)" ]; then
+	echo -e "${CRESET}"
+	echo -e "${GREEN}  ✧ ▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄ ✧  Thanks for  ${R}__ ${G}__ ${B}__ __${CRESET}"
+	echo -e "${GREEN}   ✧█▒▒░░░░░░░░░▒▒█    using       ${R}\ V${G}\ V${B}\ V /${CRESET}"
+	echo -e "${GREEN} ✧   █░░█░░░░░█░░█ ✧                ${R}\_/${G}\_/${B}\_/${CRESET}"
+	echo -e "${GREEN}  ▄▄  █░░░▀█▀░░░█  ▄▄✧ ${CRESET}"
+	echo -e "${GREEN} █░░█ ▀▄░░░░░░░▄▀ █░░█ Vagrant Up has finished! Visit ${URL}http://vvv.test${CRESET}"
+	echo -e "${GREEN} ${URL}https://dev.inkua.de${CRESET}"
+	echo -e "${GREEN}──────────────────────────────────────────────────────────────────────${CRESET}"
+else
+	echo -e "${RED}──────────────────────────────────────────────────────────────────────${CRESET}"
+	echo -e "${RED} ! WARNING${CRESET}"
+	echo -e "${RED} ! ${CRESET}"
+	echo -e "${RED} ! Problems occurred in the last provision, VVV may${CRESET}"
+	echo -e "${RED} ! not work as expected. Check the logs, and don't be ${CRESET}"
+	echo -e "${RED} ! afraid to ask for help on slack/github${CRESET}"
+	echo -e "${RED}──────────────────────────────────────────────────────────────────────${CRESET}"
+fi
