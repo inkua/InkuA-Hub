@@ -30,7 +30,11 @@ code .
 
 De esa forma puedes empesar a editar el sitio y realizar pruebas. 
 ```
+## Usuarios:
+Mysql: root - root
 
+dev.inkua.de:
+- Administrador: admin - admin
 
 
 ## Preguntas:
