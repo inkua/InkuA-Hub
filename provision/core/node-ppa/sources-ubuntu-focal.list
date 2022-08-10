@@ -1,3 +1,0 @@
-# Provides Node.js
-deb http://deb.nodesource.com/node_14.x focal main
-deb-src http://deb.nodesource.com/node_14.x focal main

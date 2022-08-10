@@ -1,4 +1,0 @@
-#!/bin/bash
-#
-# Restore individual SQL files for each database.
-. /srv/database/import-sql.sh

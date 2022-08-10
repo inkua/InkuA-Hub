@@ -1,4 +1,0 @@
-# This file is copied to /home/vagrant/.subversion during provisioning.
-
-[helpers]
-diff-cmd = colordiff
