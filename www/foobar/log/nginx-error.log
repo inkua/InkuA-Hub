@@ -1,0 +1,4 @@
+2022/08/08 10:56:46 [error] 11615#11615: *4 directory index of "/srv/www/foobar/public_html/" is forbidden, client: 192.168.56.1, server: dev.inkua.de, request: "GET / HTTP/1.1", host: "dev.inkua.de", referrer: "http://vvv.test/"
+2022/08/08 10:56:46 [error] 11615#11615: *4 open() "/srv/www/foobar/public_html/favicon.ico" failed (2: No such file or directory), client: 192.168.56.1, server: dev.inkua.de, request: "GET /favicon.ico HTTP/1.1", host: "dev.inkua.de", referrer: "http://dev.inkua.de/"
+2022/08/08 10:56:58 [error] 11615#11615: *7 directory index of "/srv/www/foobar/public_html/" is forbidden, client: 192.168.56.1, server: dev.inkua.de, request: "GET / HTTP/2.0", host: "dev.inkua.de"
+2022/08/08 10:56:58 [error] 11615#11615: *7 open() "/srv/www/foobar/public_html/favicon.ico" failed (2: No such file or directory), client: 192.168.56.1, server: dev.inkua.de, request: "GET /favicon.ico HTTP/2.0", host: "dev.inkua.de", referrer: "https://dev.inkua.de/"

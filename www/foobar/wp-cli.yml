@@ -1,0 +1,8 @@
+# auto-generated file
+path: "public_html"
+@vvv:
+  ssh: vagrant
+  path: /srv/www/foobar/public_html
+@foobar:
+  ssh: vagrant
+  path: /srv/www/foobar/public_html

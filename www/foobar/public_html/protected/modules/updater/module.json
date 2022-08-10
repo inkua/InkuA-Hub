@@ -1,0 +1,13 @@
+{
+    "id": "updater",
+    "name": "Humhub Updater",
+    "description": "Upgrade your HumHub installation to the latest version in a few clicks.",
+    "keywords": [
+        "core"
+    ],
+    "homepage": "https://github.com/humhub/updater",
+    "humhub": {
+        "minVersion": "1.0"
+    },
+    "version": "2.1.12"
+}

@@ -1,0 +1,7 @@
+vagrant plugin install --local
+vagrant up --provision
+
+
+# Box used:
+# Importing base box 'bento/ubuntu-20.04'
+https://vagrantcloud.com/bento/boxes/ubuntu-20.04/versions/202206.03.0/providers/virtualbox.box
