@@ -12,6 +12,7 @@ Abrir una consola de comandos, ir al directorio donde quieras instalar VVV y eje
 
 ```shell
 git clone https://github.com/inkua/InkuA-Hub.git
+cd InkuA-Hub
 vagrant plugin install --local
 vagrant up --provision
 ```
