@@ -1,0 +1,1008 @@
+[42004] Log opened at 2022-08-08 13:21:36.628426
+[42004] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[42004] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[42004] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[42004] Log closed at 2022-08-08 13:21:36.632237
+
+[55653] Log opened at 2022-08-08 13:22:31.871131
+[55653] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[55653] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[55653] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[55653] Log closed at 2022-08-08 13:22:31.875175
+
+[69439] Log opened at 2022-08-08 13:23:31.691830
+[69439] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[69439] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[69439] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[69439] Log closed at 2022-08-08 13:23:31.695982
+
+[83069] Log opened at 2022-08-08 13:24:25.580215
+[83069] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83069] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83069] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83069] Log closed at 2022-08-08 13:24:25.584538
+
+[83886] Log opened at 2022-08-08 13:24:33.606048
+[83886] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83886] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83886] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83886] Log closed at 2022-08-08 13:24:33.609931
+
+[97344] Log opened at 2022-08-08 13:25:26.219222
+[97344] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[97344] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[97344] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[97344] Log closed at 2022-08-08 13:25:26.223347
+
+[110922] Log opened at 2022-08-08 13:26:22.677883
+[110922] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[110922] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[110922] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[110922] Log closed at 2022-08-08 13:26:23.662589
+
+[83873] Log opened at 2022-08-08 13:30:08.674062
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] Log closed at 2022-08-08 13:30:09.744616
+
+[83874] Log opened at 2022-08-08 13:30:09.753269
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] Log closed at 2022-08-08 13:30:10.778445
+
+[83873] Log opened at 2022-08-08 13:30:19.885039
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] Log closed at 2022-08-08 13:30:20.367325
+
+[83874] Log opened at 2022-08-08 13:30:21.713293
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] Log opened at 2022-08-08 13:30:21.740367
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] Log closed at 2022-08-08 13:30:21.885830
+
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] Log closed at 2022-08-08 13:30:21.928772
+
+[83874] Log opened at 2022-08-08 13:30:23.439197
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] Log closed at 2022-08-08 13:30:24.074327
+
+[83873] Log opened at 2022-08-08 13:30:24.219569
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] Log closed at 2022-08-08 13:30:24.382694
+
+[83874] Log opened at 2022-08-08 13:30:24.919284
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] Log closed at 2022-08-08 13:30:25.160983
+
+[83873] Log opened at 2022-08-08 13:30:25.194346
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] Log closed at 2022-08-08 13:30:25.336460
+
+[83874] Log opened at 2022-08-08 13:30:26.798086
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] Log closed at 2022-08-08 13:30:27.301045
+
+[83873] Log opened at 2022-08-08 13:30:43.508939
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] Log closed at 2022-08-08 13:30:43.673640
+
+[83874] Log opened at 2022-08-08 13:31:02.704192
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] Log closed at 2022-08-08 13:31:02.885320
+
+[83873] Log opened at 2022-08-08 13:31:23.907339
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] Log closed at 2022-08-08 13:31:24.088213
+
+[83874] Log opened at 2022-08-08 13:31:48.124027
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] Log closed at 2022-08-08 13:31:48.399237
+
+[83873] Log opened at 2022-08-08 13:32:15.436168
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] Log closed at 2022-08-08 13:32:15.927053
+
+[83874] Log opened at 2022-08-08 13:32:45.962826
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] Log closed at 2022-08-08 13:32:46.136631
+
+[83873] Log opened at 2022-08-08 13:33:23.167639
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] Log closed at 2022-08-08 13:33:23.334304
+
+[83874] Log opened at 2022-08-08 13:34:08.365123
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] Log closed at 2022-08-08 13:34:08.615304
+
+[83873] Log opened at 2022-08-08 13:34:53.656140
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] Log closed at 2022-08-08 13:34:53.794782
+
+[83874] Log opened at 2022-08-08 13:35:38.843465
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] Log closed at 2022-08-08 13:35:39.016281
+
+[83873] Log opened at 2022-08-08 13:35:55.346917
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] Log closed at 2022-08-08 13:35:55.821609
+
+[83874] Log opened at 2022-08-08 13:35:57.048917
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] Log opened at 2022-08-08 13:35:57.081204
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] Log closed at 2022-08-08 13:35:57.221810
+
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] Log closed at 2022-08-08 13:35:57.260806
+
+[83874] Log opened at 2022-08-08 13:36:12.991616
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] Log closed at 2022-08-08 13:36:13.153387
+
+[83873] Log opened at 2022-08-08 13:36:30.175000
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] Log closed at 2022-08-08 13:36:30.308091
+
+[83874] Log opened at 2022-08-08 13:36:49.343416
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] Log closed at 2022-08-08 13:36:49.512805
+
+[83873] Log opened at 2022-08-08 13:37:10.533357
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] Log closed at 2022-08-08 13:37:10.670638
+
+[83874] Log opened at 2022-08-08 13:37:34.699926
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83874] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83874] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83874] Log closed at 2022-08-08 13:37:34.944271
+
+[83873] Log opened at 2022-08-08 13:38:02.003812
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[83873] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[83873] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[83873] Log closed at 2022-08-08 13:38:02.162110
+
+[173953] Log opened at 2022-08-17 11:15:30.338283
+[173953] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[173953] [Step Debug] WARN: Creating socket for '_gateway:9003', getaddrinfo: Invalid argument.
+[173953] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[173953] Log closed at 2022-08-17 11:15:30.346887
+
+[173980] Log opened at 2022-08-17 11:15:30.428863
+[173980] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[173980] [Step Debug] WARN: Creating socket for '_gateway:9003', getaddrinfo: Invalid argument.
+[173980] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[173980] Log closed at 2022-08-17 11:15:30.430231
+
+[173993] Log opened at 2022-08-17 11:15:30.467568
+[173993] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[173993] [Step Debug] WARN: Creating socket for '_gateway:9003', getaddrinfo: Invalid argument.
+[173993] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[173993] Log closed at 2022-08-17 11:15:30.468772
+
+[174006] Log opened at 2022-08-17 11:15:30.506251
+[174006] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[174006] [Step Debug] WARN: Creating socket for '_gateway:9003', getaddrinfo: Invalid argument.
+[174006] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[174006] Log closed at 2022-08-17 11:15:30.507656
+
+[174045] Log opened at 2022-08-17 11:15:30.606276
+[174045] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[174045] [Step Debug] WARN: Creating socket for '_gateway:9003', getaddrinfo: Invalid argument.
+[174045] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[174045] Log closed at 2022-08-17 11:15:30.607698
+
+[174058] Log opened at 2022-08-17 11:15:30.636532
+[174058] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[174058] [Step Debug] WARN: Creating socket for '_gateway:9003', getaddrinfo: Invalid argument.
+[174058] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[174058] Log closed at 2022-08-17 11:15:30.637855
+
+[174071] Log opened at 2022-08-17 11:15:30.667142
+[174071] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[174071] [Step Debug] WARN: Creating socket for '_gateway:9003', getaddrinfo: Invalid argument.
+[174071] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[174071] Log closed at 2022-08-17 11:15:30.668598
+
+[174084] Log opened at 2022-08-17 11:15:30.698218
+[174084] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[174084] [Step Debug] WARN: Creating socket for '_gateway:9003', getaddrinfo: Invalid argument.
+[174084] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[174084] Log closed at 2022-08-17 11:15:30.699524
+
+[174709] Log opened at 2022-08-17 11:39:00.491118
+[174709] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[174709] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[174709] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[174709] Log closed at 2022-08-17 11:39:00.494760
+
+[174722] Log opened at 2022-08-17 11:39:00.529507
+[174722] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[174722] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[174722] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[174722] Log closed at 2022-08-17 11:39:00.531288
+
+[174735] Log opened at 2022-08-17 11:39:00.565945
+[174735] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[174735] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[174735] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[174735] Log closed at 2022-08-17 11:39:00.567682
+
+[174748] Log opened at 2022-08-17 11:39:00.602699
+[174748] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[174748] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[174748] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[174748] Log closed at 2022-08-17 11:39:00.604579
+
+[174787] Log opened at 2022-08-17 11:39:00.708073
+[174787] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[174787] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[174787] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[174787] Log closed at 2022-08-17 11:39:00.710007
+
+[174800] Log opened at 2022-08-17 11:39:00.745719
+[174800] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[174800] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[174800] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[174800] Log closed at 2022-08-17 11:39:00.747946
+
+[174813] Log opened at 2022-08-17 11:39:00.783732
+[174813] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[174813] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[174813] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[174813] Log closed at 2022-08-17 11:39:00.786216
+
+[174826] Log opened at 2022-08-17 11:39:00.821647
+[174826] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[174826] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[174826] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[174826] Log closed at 2022-08-17 11:39:00.823653
+
+[175198] Log opened at 2022-08-17 12:09:00.343336
+[175198] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[175198] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[175198] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[175198] Log closed at 2022-08-17 12:09:00.350613
+
+[175211] Log opened at 2022-08-17 12:09:00.415583
+[175211] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[175211] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[175211] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[175211] Log closed at 2022-08-17 12:09:00.418834
+
+[175224] Log opened at 2022-08-17 12:09:00.482686
+[175224] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[175224] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[175224] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[175224] Log closed at 2022-08-17 12:09:00.486292
+
+[175237] Log opened at 2022-08-17 12:09:00.562194
+[175237] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[175237] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[175237] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[175237] Log closed at 2022-08-17 12:09:00.567141
+
+[175276] Log opened at 2022-08-17 12:09:00.758955
+[175276] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[175276] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[175276] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[175276] Log closed at 2022-08-17 12:09:00.770942
+
+[175289] Log opened at 2022-08-17 12:09:00.834336
+[175289] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[175289] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[175289] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[175289] Log closed at 2022-08-17 12:09:00.837430
+
+[175302] Log opened at 2022-08-17 12:09:00.902000
+[175302] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[175302] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[175302] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[175302] Log closed at 2022-08-17 12:09:00.904797
+
+[175315] Log opened at 2022-08-17 12:09:00.976573
+[175315] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[175315] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[175315] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[175315] Log closed at 2022-08-17 12:09:00.980060
+
+[175858] Log opened at 2022-08-17 12:49:52.508106
+[175858] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[175858] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[175858] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[175858] Log closed at 2022-08-17 12:49:52.514277
+
+[175871] Log opened at 2022-08-17 12:49:52.620713
+[175871] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[175871] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[175871] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[175871] Log closed at 2022-08-17 12:49:52.624634
+
+[175884] Log opened at 2022-08-17 12:49:52.733533
+[175884] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[175884] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[175884] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[175884] Log closed at 2022-08-17 12:49:52.738010
+
+[175897] Log opened at 2022-08-17 12:49:52.847640
+[175897] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[175897] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[175897] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[175897] Log closed at 2022-08-17 12:49:52.852224
+
+[175936] Log opened at 2022-08-17 12:49:53.173657
+[175936] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[175936] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[175936] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[175936] Log closed at 2022-08-17 12:49:53.178489
+
+[175949] Log opened at 2022-08-17 12:49:53.281426
+[175949] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[175949] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[175949] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[175949] Log closed at 2022-08-17 12:49:53.284812
+
+[175963] Log opened at 2022-08-17 12:49:53.370061
+[175963] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[175963] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[175963] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[175963] Log closed at 2022-08-17 12:49:53.374104
+
+[175977] Log opened at 2022-08-17 12:49:53.462476
+[175977] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[175977] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[175977] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[175977] Log closed at 2022-08-17 12:49:53.469970
+
+[176525] Log opened at 2022-08-17 13:09:02.254223
+[176525] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[176525] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[176525] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[176525] Log closed at 2022-08-17 13:09:02.265445
+
+[176538] Log opened at 2022-08-17 13:09:02.398629
+[176538] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[176538] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[176538] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[176538] Log closed at 2022-08-17 13:09:02.404217
+
+[176551] Log opened at 2022-08-17 13:09:02.546110
+[176551] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[176551] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[176551] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[176551] Log closed at 2022-08-17 13:09:02.550570
+
+[176564] Log opened at 2022-08-17 13:09:02.649944
+[176564] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[176564] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[176564] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[176564] Log closed at 2022-08-17 13:09:02.654814
+
+[176603] Log opened at 2022-08-17 13:09:03.042299
+[176603] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[176603] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[176603] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[176603] Log closed at 2022-08-17 13:09:03.047996
+
+[176616] Log opened at 2022-08-17 13:09:03.172442
+[176616] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[176616] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[176616] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[176616] Log closed at 2022-08-17 13:09:03.177505
+
+[176629] Log opened at 2022-08-17 13:09:03.280985
+[176629] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[176629] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[176629] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[176629] Log closed at 2022-08-17 13:09:03.285883
+
+[176642] Log opened at 2022-08-17 13:09:03.386181
+[176642] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[176642] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[176642] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[176642] Log closed at 2022-08-17 13:09:03.391336
+
+[177033] Log opened at 2022-08-17 13:39:01.292600
+[177033] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[177033] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[177033] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[177033] Log closed at 2022-08-17 13:39:01.305136
+
+[177047] Log opened at 2022-08-17 13:39:01.405714
+[177047] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[177047] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[177047] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[177047] Log closed at 2022-08-17 13:39:01.413681
+
+[177060] Log opened at 2022-08-17 13:39:01.532571
+[177060] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[177060] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[177060] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[177060] Log closed at 2022-08-17 13:39:01.536900
+
+[177073] Log opened at 2022-08-17 13:39:01.642133
+[177073] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[177073] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[177073] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[177073] Log closed at 2022-08-17 13:39:01.646617
+
+[177112] Log opened at 2022-08-17 13:39:01.957128
+[177112] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[177112] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[177112] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[177112] Log closed at 2022-08-17 13:39:01.961331
+
+[177125] Log opened at 2022-08-17 13:39:02.049512
+[177125] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[177125] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[177125] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[177125] Log closed at 2022-08-17 13:39:02.053954
+
+[177138] Log opened at 2022-08-17 13:39:02.146545
+[177138] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[177138] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[177138] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[177138] Log closed at 2022-08-17 13:39:02.150717
+
+[177151] Log opened at 2022-08-17 13:39:02.242780
+[177151] [Step Debug] INFO: Connecting to configured address/port: _gateway:9003.
+[177151] [Step Debug] WARN: Creating socket for '_gateway:9003', poll success, but error: Operation now in progress (29).
+[177151] [Step Debug] ERR: Could not connect to debugging client. Tried: _gateway:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[177151] Log closed at 2022-08-17 13:39:02.248143
+

@@ -1,0 +1,1 @@
+2022/08/08 10:53:53 [emerg] 686#686: open() "/srv/www/wordpress-one/log/nginx-error.log" failed (2: No such file or directory)

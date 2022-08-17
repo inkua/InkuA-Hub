@@ -1,0 +1,133 @@
+[05-Aug-2022 11:09:26] NOTICE: fpm is running, pid 46903
+[05-Aug-2022 11:09:26] NOTICE: ready to handle connections
+[05-Aug-2022 11:09:26] NOTICE: systemd monitor interval set to 10000ms
+[05-Aug-2022 11:09:29] NOTICE: Terminating ...
+[05-Aug-2022 11:09:29] NOTICE: exiting, bye-bye!
+[05-Aug-2022 11:09:29] NOTICE: fpm is running, pid 47357
+[05-Aug-2022 11:09:29] NOTICE: ready to handle connections
+[05-Aug-2022 11:09:29] NOTICE: systemd monitor interval set to 10000ms
+[05-Aug-2022 12:28:28] NOTICE: Terminating ...
+[05-Aug-2022 12:28:28] NOTICE: exiting, bye-bye!
+[05-Aug-2022 12:29:47] NOTICE: fpm is running, pid 688
+[05-Aug-2022 12:29:47] NOTICE: ready to handle connections
+[05-Aug-2022 12:29:47] NOTICE: systemd monitor interval set to 10000ms
+[05-Aug-2022 12:55:50] NOTICE: Terminating ...
+[05-Aug-2022 12:55:50] NOTICE: exiting, bye-bye!
+[05-Aug-2022 16:10:24] NOTICE: fpm is running, pid 688
+[05-Aug-2022 16:10:24] NOTICE: ready to handle connections
+[05-Aug-2022 16:10:24] NOTICE: systemd monitor interval set to 10000ms
+[05-Aug-2022 17:08:20] NOTICE: Terminating ...
+[05-Aug-2022 17:08:20] NOTICE: exiting, bye-bye!
+[08-Aug-2022 10:53:55] NOTICE: fpm is running, pid 690
+[08-Aug-2022 10:53:55] NOTICE: ready to handle connections
+[08-Aug-2022 10:53:55] NOTICE: systemd monitor interval set to 10000ms
+[08-Aug-2022 10:55:06] NOTICE: Terminating ...
+[08-Aug-2022 10:55:06] NOTICE: exiting, bye-bye!
+[08-Aug-2022 10:55:06] NOTICE: fpm is running, pid 7561
+[08-Aug-2022 10:55:06] NOTICE: ready to handle connections
+[08-Aug-2022 10:55:06] NOTICE: systemd monitor interval set to 10000ms
+[08-Aug-2022 10:55:08] NOTICE: Terminating ...
+[08-Aug-2022 10:55:08] NOTICE: exiting, bye-bye!
+[08-Aug-2022 10:55:08] NOTICE: fpm is running, pid 8015
+[08-Aug-2022 10:55:08] NOTICE: ready to handle connections
+[08-Aug-2022 10:55:08] NOTICE: systemd monitor interval set to 10000ms
+[08-Aug-2022 11:34:09] NOTICE: [pool www] child 8016 exited with code 0 after 2340.481856 seconds from start
+[08-Aug-2022 11:34:09] NOTICE: [pool www] child 12417 started
+[08-Aug-2022 11:35:18] NOTICE: [pool www] child 8017 exited with code 0 after 2409.263581 seconds from start
+[08-Aug-2022 11:35:18] NOTICE: [pool www] child 12418 started
+[08-Aug-2022 12:04:31] NOTICE: [pool www] child 12379 exited with code 0 after 3251.899920 seconds from start
+[08-Aug-2022 12:04:31] NOTICE: [pool www] child 13168 started
+[08-Aug-2022 12:46:02] NOTICE: [pool www] child 12417 exited with code 0 after 4312.792737 seconds from start
+[08-Aug-2022 12:46:02] NOTICE: [pool www] child 13568 started
+[08-Aug-2022 12:51:17] NOTICE: [pool www] child 12418 exited with code 0 after 4559.015268 seconds from start
+[08-Aug-2022 12:51:17] NOTICE: [pool www] child 13603 started
+[08-Aug-2022 13:15:59] NOTICE: Terminating ...
+[08-Aug-2022 13:15:59] NOTICE: exiting, bye-bye!
+[08-Aug-2022 13:17:05] NOTICE: fpm is running, pid 687
+[08-Aug-2022 13:17:05] NOTICE: ready to handle connections
+[08-Aug-2022 13:17:05] NOTICE: systemd monitor interval set to 10000ms
+[08-Aug-2022 13:18:17] NOTICE: Terminating ...
+[08-Aug-2022 13:18:17] NOTICE: exiting, bye-bye!
+[08-Aug-2022 13:18:17] NOTICE: fpm is running, pid 7498
+[08-Aug-2022 13:18:17] NOTICE: ready to handle connections
+[08-Aug-2022 13:18:17] NOTICE: systemd monitor interval set to 10000ms
+[08-Aug-2022 13:18:19] NOTICE: Terminating ...
+[08-Aug-2022 13:18:19] NOTICE: exiting, bye-bye!
+[08-Aug-2022 13:18:19] NOTICE: fpm is running, pid 7952
+[08-Aug-2022 13:18:19] NOTICE: ready to handle connections
+[08-Aug-2022 13:18:19] NOTICE: systemd monitor interval set to 10000ms
+[08-Aug-2022 13:21:33] NOTICE: Terminating ...
+[08-Aug-2022 13:21:33] NOTICE: exiting, bye-bye!
+[08-Aug-2022 13:21:33] NOTICE: fpm is running, pid 41763
+[08-Aug-2022 13:21:33] NOTICE: ready to handle connections
+[08-Aug-2022 13:21:33] NOTICE: systemd monitor interval set to 10000ms
+[08-Aug-2022 13:24:33] NOTICE: Terminating ...
+[08-Aug-2022 13:24:33] NOTICE: exiting, bye-bye!
+[08-Aug-2022 13:24:33] NOTICE: fpm is running, pid 83858
+[08-Aug-2022 13:24:33] NOTICE: ready to handle connections
+[08-Aug-2022 13:24:33] NOTICE: systemd monitor interval set to 10000ms
+[08-Aug-2022 13:38:05] NOTICE: Terminating ...
+[08-Aug-2022 13:38:05] NOTICE: exiting, bye-bye!
+[08-Aug-2022 13:38:05] NOTICE: fpm is running, pid 117897
+[08-Aug-2022 13:38:05] NOTICE: ready to handle connections
+[08-Aug-2022 13:38:05] NOTICE: systemd monitor interval set to 10000ms
+[08-Aug-2022 13:38:10] NOTICE: Terminating ...
+[08-Aug-2022 13:38:10] NOTICE: exiting, bye-bye!
+[08-Aug-2022 13:38:10] NOTICE: fpm is running, pid 118449
+[08-Aug-2022 13:38:10] NOTICE: ready to handle connections
+[08-Aug-2022 13:38:10] NOTICE: systemd monitor interval set to 10000ms
+[08-Aug-2022 13:39:19] NOTICE: Terminating ...
+[08-Aug-2022 13:39:19] NOTICE: exiting, bye-bye!
+[08-Aug-2022 13:39:19] NOTICE: fpm is running, pid 126252
+[08-Aug-2022 13:39:19] NOTICE: ready to handle connections
+[08-Aug-2022 13:39:19] NOTICE: systemd monitor interval set to 10000ms
+[08-Aug-2022 14:03:31] NOTICE: [pool www] child 126265 exited with code 0 after 1452.323920 seconds from start
+[08-Aug-2022 14:03:31] NOTICE: [pool www] child 130174 started
+[08-Aug-2022 14:05:56] NOTICE: [pool www] child 130024 exited with code 0 after 1220.133968 seconds from start
+[08-Aug-2022 14:05:56] NOTICE: [pool www] child 130193 started
+[08-Aug-2022 14:08:18] NOTICE: [pool www] child 130099 exited with code 0 after 845.100969 seconds from start
+[08-Aug-2022 14:08:18] NOTICE: [pool www] child 130221 started
+[08-Aug-2022 14:54:26] NOTICE: [pool www] child 130174 exited with code 0 after 3054.280516 seconds from start
+[08-Aug-2022 14:54:26] NOTICE: [pool www] child 131075 started
+[08-Aug-2022 15:03:23] NOTICE: [pool www] child 130193 exited with code 0 after 3447.392962 seconds from start
+[08-Aug-2022 15:03:23] NOTICE: [pool www] child 131147 started
+[08-Aug-2022 15:19:57] NOTICE: [pool www] child 130221 exited with code 0 after 4299.302051 seconds from start
+[08-Aug-2022 15:19:57] NOTICE: [pool www] child 131636 started
+[08-Aug-2022 16:06:39] NOTICE: [pool www] child 131147 exited with code 0 after 3796.211271 seconds from start
+[08-Aug-2022 16:06:39] NOTICE: [pool www] child 132673 started
+[08-Aug-2022 16:10:16] NOTICE: [pool www] child 131636 exited with code 0 after 3019.456936 seconds from start
+[08-Aug-2022 16:10:16] NOTICE: [pool www] child 132992 started
+[08-Aug-2022 16:33:32] NOTICE: [pool www] child 132045 exited with code 0 after 3310.414370 seconds from start
+[08-Aug-2022 16:33:32] NOTICE: [pool www] child 133241 started
+[08-Aug-2022 17:24:08] NOTICE: [pool www] child 132673 exited with code 0 after 4649.118463 seconds from start
+[08-Aug-2022 17:24:08] NOTICE: [pool www] child 134285 started
+[08-Aug-2022 17:47:09] NOTICE: [pool www] child 132992 exited with code 0 after 5812.350522 seconds from start
+[08-Aug-2022 17:47:09] NOTICE: [pool www] child 134870 started
+[08-Aug-2022 17:53:40] NOTICE: Terminating ...
+[08-Aug-2022 17:53:40] NOTICE: exiting, bye-bye!
+[16-Aug-2022 18:45:21] NOTICE: fpm is running, pid 68979
+[16-Aug-2022 18:45:21] NOTICE: ready to handle connections
+[16-Aug-2022 18:45:21] NOTICE: systemd monitor interval set to 10000ms
+[16-Aug-2022 18:45:27] NOTICE: Terminating ...
+[16-Aug-2022 18:45:27] NOTICE: exiting, bye-bye!
+[16-Aug-2022 18:45:27] NOTICE: fpm is running, pid 69434
+[16-Aug-2022 18:45:27] NOTICE: ready to handle connections
+[16-Aug-2022 18:45:27] NOTICE: systemd monitor interval set to 10000ms
+[16-Aug-2022 18:52:15] NOTICE: Terminating ...
+[16-Aug-2022 18:52:15] NOTICE: exiting, bye-bye!
+[16-Aug-2022 18:52:15] NOTICE: fpm is running, pid 145473
+[16-Aug-2022 18:52:15] NOTICE: ready to handle connections
+[16-Aug-2022 18:52:15] NOTICE: systemd monitor interval set to 10000ms
+[17-Aug-2022 14:07:03] NOTICE: fpm is running, pid 68964
+[17-Aug-2022 14:07:03] NOTICE: ready to handle connections
+[17-Aug-2022 14:07:03] NOTICE: systemd monitor interval set to 10000ms
+[17-Aug-2022 14:07:06] NOTICE: Terminating ...
+[17-Aug-2022 14:07:06] NOTICE: exiting, bye-bye!
+[17-Aug-2022 14:07:06] NOTICE: fpm is running, pid 69418
+[17-Aug-2022 14:07:06] NOTICE: ready to handle connections
+[17-Aug-2022 14:07:06] NOTICE: systemd monitor interval set to 10000ms
+[17-Aug-2022 14:13:47] NOTICE: Terminating ...
+[17-Aug-2022 14:13:47] NOTICE: exiting, bye-bye!
+[17-Aug-2022 14:13:47] NOTICE: fpm is running, pid 145519
+[17-Aug-2022 14:13:47] NOTICE: ready to handle connections
+[17-Aug-2022 14:13:47] NOTICE: systemd monitor interval set to 10000ms

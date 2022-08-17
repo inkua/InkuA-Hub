@@ -56,9 +56,9 @@
             'dev_requirement' => false,
         ),
         'sirbrillig/phpcs-variable-analysis' => array(
-            'pretty_version' => 'v2.11.4',
-            'version' => '2.11.4.0',
-            'reference' => 'e9c99cda31b21ccb4da4c2124b57c8355ddce48e',
+            'pretty_version' => 'v2.11.7',
+            'version' => '2.11.7.0',
+            'reference' => 'ad2b0b57803a48bb3495777bee2a9a13c8e9da53',
             'type' => 'phpcodesniffer-standard',
             'install_path' => __DIR__ . '/../sirbrillig/phpcs-variable-analysis',
             'aliases' => array(),

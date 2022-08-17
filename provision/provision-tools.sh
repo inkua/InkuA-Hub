@@ -47,12 +47,6 @@ sudo echo "* * * * * /usr/bin/php /srv/www/foobar/public_html/protected/yii cron
 sudo crontab cron_tmp
 sudo rm cron_tmp
 
-# Turn Xdebug On
-switch_php_debugmod xdebug
-
-# End # Added by InkuA
-
-
 
 # And it's done
 

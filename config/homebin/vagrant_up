@@ -52,7 +52,6 @@ if [ -z "$(ls -A /vagrant/failed_provisioners/)" ]; then
 	echo -e "${GREEN} ✧   █░░█░░░░░█░░█ ✧                ${R}\_/${G}\_/${B}\_/${CRESET}"
 	echo -e "${GREEN}  ▄▄  █░░░▀█▀░░░█  ▄▄✧ ${CRESET}"
 	echo -e "${GREEN} █░░█ ▀▄░░░░░░░▄▀ █░░█ Vagrant Up has finished! Visit ${URL}http://vvv.test${CRESET}"
-	echo -e "${GREEN} ${URL}https://dev.inkua.de${CRESET}"
 	echo -e "${GREEN}──────────────────────────────────────────────────────────────────────${CRESET}"
 else
 	echo -e "${RED}──────────────────────────────────────────────────────────────────────${CRESET}"

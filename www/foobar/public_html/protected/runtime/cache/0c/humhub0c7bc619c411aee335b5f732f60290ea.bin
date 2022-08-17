@@ -1,6 +1,6 @@
-a:2:{i:0;s:1417:"
+a:2:{i:0;s:1341:"
 
-<a href="/index.php?r=activity%2Flink&id=7">
+<a href="/index.php?r=activity%2Flink&id=8">
 
     <div class="media">
                     <!-- Show user image -->
@@ -11,10 +11,10 @@ a:2:{i:0;s:1417:"
         <div class="media-body text-break">
 
             <!-- Show content -->
-            <strong>Sara Schuster</strong> wrote a new comment  "Calvin Klein – Between love and madness lies obsession."            <br>
+            <strong>Sara Schuster</strong> likes comment "Nike – Just buy it. 😉"            <br>
 
             <!-- show time -->
-            <time class="tt time timeago" data-ui-addition="timeago" datetime="2022-08-08T11:00:53+02:00" title="Aug 8, 2022 - 11:00 AM">Aug 8, 2022 - 11:00 AM</time>        </div>
+            <time class="tt time timeago" datetime="2022-08-08T11:00:53+02:00" title="Aug 8, 2022 - 11:00 AM">Aug 8, 2022</time>        </div>
     </div>
 
 </a>

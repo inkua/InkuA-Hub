@@ -42,7 +42,7 @@
         'installer_database' => 'inkuahubdev',
       ),
     ),
-    'config_created_at' => 1659957106,
+    'config_created_at' => 1660743719,
     'horImageScrollOnMobile' => '1',
     'databaseInstalled' => true,
     'installed' => true,
