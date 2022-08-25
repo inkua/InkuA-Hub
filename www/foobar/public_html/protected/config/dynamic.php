@@ -24,8 +24,6 @@
     ),
     'cache' => 
     array (
-      'class' => 'yii\\caching\\FileCache',
-      'keyPrefix' => 'humhub',
     ),
     'formatter' => 
     array (
